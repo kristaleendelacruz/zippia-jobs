@@ -1,0 +1,17 @@
+.form-control {
+  height: 110px;
+  width: 250px;
+  padding: 0.5rem;
+  background-color: white;
+  border: 1px solid grey;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.button-group {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
